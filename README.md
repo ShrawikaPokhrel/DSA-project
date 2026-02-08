@@ -883,17 +883,4 @@ g++ -std=c++11 playlist.cpp -o playlist
 
 ---
 
-## APPENDIX B: GROUP CONTRIBUTION
-
-| Member | Contribution | Percentage |
-|--------|-------------|-----------|
-| Member 1 | Data structure design, Add/Delete functions | 25% |
-| Member 2 | Navigation functions, Display logic | 25% |
-| Member 3 | Shuffle algorithm, Testing | 25% |
-| Member 4 | Documentation, Edge case handling | 25% |
-
-*Note: All members participated in code review, debugging, and presentation preparation.*
-
----
-
 **END OF REPORT**
